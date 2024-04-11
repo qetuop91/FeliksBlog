@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 13 15:25:02 CST 2023
+doxia-logging-api-1.1.jar>nexus-aliyun=
+doxia-logging-api-1.1.pom>apache=
+doxia-logging-api-1.1.jar>apache=
+doxia-logging-api-1.1.pom>nexus-aliyun=

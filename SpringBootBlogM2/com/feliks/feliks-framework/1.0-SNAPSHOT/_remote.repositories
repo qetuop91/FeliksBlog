@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 00:29:39 CST 2024
+feliks-framework-1.0-SNAPSHOT.jar>=
+feliks-framework-1.0-SNAPSHOT.pom>=
+feliks-framework-1.0-SNAPSHOT-jar-with-dependencies.jar>=
